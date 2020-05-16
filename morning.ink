@@ -40,7 +40,7 @@ I can feel you judging me. For once can you just not. It isn't helping the situa
 + Neither is lying here talking to your own brain
 -
 
-I'm going to pretent I didn't hear that
+I'm going to pretend I didn't hear that
 -> getting_dressed
 
 = second_loop
